@@ -36,7 +36,6 @@ class App extends Component {
 
     }
 
-
     componentDidMount(): void {
         this.registerSocketListener();
     }
